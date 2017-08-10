@@ -1,0 +1,15 @@
+__pycahe__/
+media/
+logs/
+static/
+.idea
+.env
+.DS_Store
+.venv
+*.pyc
+*.sqlite3
+*.log
+*.pid
+apidoc
+doc
+Pipfile
